@@ -10,3 +10,4 @@ API Endpoints:
 4. To view static page: /api/home
 
 database details are in the settings.py file if neccesary
+Note: check the main branch to see the project i have uploaded
